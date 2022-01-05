@@ -1,0 +1,20 @@
+{
+  "name": "ongad-backend",
+  "version": "1.0.0",
+  "description": "ongad vin backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ongad-backend"
+  },
+  "keywords": [
+    "ongad",
+    "vin",
+    "checker"
+  ],
+  "author": "badt0men",
+  "license": "ISC"
+}
