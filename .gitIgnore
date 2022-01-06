@@ -1,0 +1,12 @@
+#ignore all these
+.DS_Store
+.git
+.gitmodules
+.idea
+.vscode
+.vscodeignore
+.NODE_ENV
+.env
+node_modules
+package-lock.json
+
